@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thekripaverse/thekripaverse/main/assets/banner.png" alt="Kripasree's Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Kripasree</h1>
 <h3 align="center">🚀 Aspiring AI Student | Pythonista | Visioneering the Future</h3>
 
@@ -42,4 +46,3 @@
 ---
 
 > *“Code is not just a skill, it's a superpower — and I'm here to use it wisely!”* 🌟
-
