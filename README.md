@@ -9,7 +9,7 @@
 
 ### 👩‍💻 About Me
 - 🎓 I'm an undergrad at **Karpagam College of Engineering**
-- 🤖 Passionate about **AI, Computer Vision, and Full-Stack Development**
+- 🤖 Passionate about **AI, Computer Vision**
 - 💻 Currently building: OpenCV based Projects
 - 💡 Exploring **Deep Learning**, **Machine learning**, and **Generative AI**
 - 📌 Based in Coimbatore, India
