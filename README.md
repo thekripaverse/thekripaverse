@@ -10,7 +10,7 @@
 ### About Me
 -  I'm an undergrad at **Karpagam College of Engineering**
 -  Passionate about **AI, Problem Solving**
--  Currently building: OpenCV based Projects
+-  Currently building: Agentic AI based Projects
 -  Exploring **Deep Learning**, **Machine learning**, and **Generative AI**
 -  Based in Coimbatore, India
 
@@ -26,10 +26,8 @@
 ---
 
 ### Projects I’m Proud Of
--  [**Fruit Ninja with Hand Gestures**](https://github.com/thekripaverse/Fruit_ninja) — CV-powered slicing game
--  [**Brightness Controller Using Hand Gesture**](https://github.com/thekripaverse/OpenCV-Project)
--  [**Handwritten Digit Recognition**](https://github.com/thekripaverse/Handwritten-Digit-Recognition) — ML with MNIST
--  [**Flappy Bird Clone (Java)**](https://github.com/thekripaverse/Flappy_Bird)
+-  [**Clinical Copilot**](https://github.com/thekripaverse/ClinicalCopilot.git) — Multi-agent based project
+-  [**AI- Based Alumni Discovery Platform**](https://github.com/thekripaverse/AlumniDiscoveryPlatform.git)
 
 ---
 
