@@ -37,7 +37,7 @@
 ### Featured Projects
 <p align="center">
   <a href="https://github.com/thekripaverse/ClinicalCopilot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thekripaverse&repo=ClinicalCopilot&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thekripaverse&repo=ClinicalCopilot&theme=radical"/>
   </a>
   <a href="https://github.com/thekripaverse/AlumniDiscoveryPlatform">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=thekripaverse&repo=AlumniDiscoveryPlatform&theme=radical" />
