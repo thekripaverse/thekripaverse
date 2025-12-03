@@ -29,10 +29,6 @@
 -  [**Clinical Copilot**](https://github.com/thekripaverse/ClinicalCopilot.git) — Multi-agent based project
 -  [**AI- Based Alumni Discovery Platform**](https://github.com/thekripaverse/AlumniDiscoveryPlatform.git)
 
----
-
-###  GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thekripaverse&layout=compact&theme=radical)](https://github.com/thekripaverse)
 
 ---
 
