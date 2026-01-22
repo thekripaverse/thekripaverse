@@ -67,7 +67,6 @@ Interested in solving real-world problems through **scalable, reliable, and expl
 
 ---
 
-## Contributions & Consistency
 
 ## Contributions & Consistency
 
