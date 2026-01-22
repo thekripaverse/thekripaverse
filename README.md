@@ -1,47 +1,44 @@
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/thekripaverse/thekripaverse/main/banner.png" width="100%" />
 </p>
 
-<h1 align="center">
-  Hey, I'm <span style="color:#ff4db1;">Kripasree M</span>
-</h1>
+<h1 align="center">Kripasree M</h1>
 
 <h3 align="center">
-  AI Student · Pythonista · Visioneer · Building the Future with Intelligent Systems
+AI Engineering Student · Python Developer · Agentic Systems Builder
 </h3>
 
-<br/>
+---
+
+## Profile
+
+Undergraduate engineering student at **Karpagam College of Engineering** with a strong focus on
+**Artificial Intelligence, Agentic AI, Computer Vision, and Deep Learning**.
+
+Actively building **AI agents and multi-agent autonomous systems**, with hands-on experience in
+applied machine learning, intelligent workflows, and production-oriented AI tooling.
+
+Interested in solving real-world problems through **scalable, reliable, and explainable AI systems**.
+
+📍 Coimbatore, India
 
 ---
 
-## About Me
-
-* Undergraduate student at **Karpagam College of Engineering**
-* Passionate about **AI, Agentic AI, Computer Vision, and Deep Learning**
-* Currently building **AI Agents and Multi-Agent Autonomous Systems**
-* Actively exploring **Generative AI, Reinforcement Learning, and Applied Machine Learning**
-* Comfortable discussing **Python, Computer Vision, ML/AI, and Streamlit**
-* Based in **Coimbatore, India 🇮🇳**
-
----
-
-## Tech Stack
+## Technical Expertise
 
 <div align="center">
 
-| AI / Agents                                                                                                         | Core Technologies                                                                                       | Web Technologies                                                                                                 | Tools & Platforms                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| ![AI Agents](https://img.shields.io/badge/AI%20Agents-000?style=for-the-badge\&logo=githubcopilot\&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge\&logo=html5\&logoColor=white)               | ![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge\&logo=visual-studio-code\&logoColor=white) |
-| ![LangChain](https://img.shields.io/badge/LangChain-00c853?style=for-the-badge)                                     | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)       | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)                  | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)                        |
-| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white) | ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge\&logo=opencv\&logoColor=white) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge\&logo=docker\&logoColor=white)               |
+| AI & ML | Programming | Web & Deployment | Developer Tools |
+|-------|-------------|------------------|----------------|
+| AI Agents | Python | HTML | VS Code |
+| LangChain | Java | CSS | Git |
+| TensorFlow | OpenCV | Streamlit | Docker |
 
 </div>
 
 ---
 
-## Featured Projects
+## Selected Projects
 
 <p align="center">
   <a href="https://github.com/thekripaverse/Nemotron-Omni-Orchestrator">
@@ -52,13 +49,11 @@
   </a>
 </p>
 
-<p align="center">
-  <strong>More projects coming soon — AI Agents and Vision-focused systems currently under development.</strong>
-</p>
+> Additional AI-agent and computer-vision–focused projects are currently under development.
 
 ---
 
-## GitHub Analytics
+## Engineering Activity
 
 <div align="center">
 
@@ -72,15 +67,11 @@
 
 ---
 
-## Contribution Trophies
+## Contributions & Consistency
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=thekripaverse&theme=radical&column=8" />
 </p>
-
----
-
-## Activity Timeline
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thekripaverse&theme=radical" />
@@ -88,7 +79,7 @@
 
 ---
 
-## Connect With Me
+## Contact
 
 <p align="center">
   <a href="mailto:kripasreemohanraj@gmail.com">
@@ -104,10 +95,7 @@
 
 ---
 
-<div align="center">
-
-<i>“I’m not just learning AI — I’m engineering the future with it.”</i> <br/>
-If you find my work valuable, consider starring my repositories. Your support keeps me motivated.
-
-</div>
-
+<p align="center">
+<i>Focused on building reliable AI systems, not just demos.</i><br/>
+If you find value in my work, consider starring the repositories.
+</p>
