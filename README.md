@@ -35,8 +35,8 @@
   <a href="https://github.com/thekripaverse/Nemotron-Omni-Orchestrator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=thekripaverse&repo=Nemotron-Omni-Orchestrator&theme=radical"/>
   </a>
-  <a href="https://github.com/thekripaverse/ClinicalCopilot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thekripaverse&repo=ClinicalCopilot&theme=radical" />
+  <a href="https://github.com/thekripaverse/AgenticAI_OS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thekripaverse&repo=AgenticAI_OS&theme=radical" />
   </a>
 </p>
 
