@@ -70,7 +70,7 @@ Interested in solving real-world problems through **scalable, reliable, and expl
 
 ## Contributions & Consistency
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=thekripaverse&theme=radical&column=8)
+![Trophies](https://github-profile-trophy.vercel.app/?username=thekripaverse&theme=radical&no-frame=true&margin-w=10)
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thekripaverse&theme=radical)
 
