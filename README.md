@@ -69,13 +69,11 @@ Interested in solving real-world problems through **scalable, reliable, and expl
 
 ## Contributions & Consistency
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thekripaverse&theme=radical&column=8" />
-</p>
+## Contributions & Consistency
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thekripaverse&theme=radical" />
-</p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=thekripaverse&theme=radical&column=8)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thekripaverse&theme=radical)
 
 ---
 
