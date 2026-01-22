@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/thekripaverse/thekripaverse/main/banner.png" width="100%" />
 </p>
 
-<h1 align="center"> Hey, I'm <span style="color:#ff4db1;">Kripasree</span> </h1>
+<h1 align="center"> Hey, I'm <span style="color:#ff4db1;">Kripasree M</span> </h1>
 <h3 align="center">AI Student · Pythonista · Visioneer · Building the Future with Intelligent Systems</h3>
 
 <p align="center">
