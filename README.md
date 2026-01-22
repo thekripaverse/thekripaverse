@@ -5,10 +5,6 @@
 <h1 align="center"> Hey, I'm <span style="color:#ff4db1;">Kripasree M</span> </h1>
 <h3 align="center">AI Student · Pythonista · Visioneer · Building the Future with Intelligent Systems</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thekripaverse&style=for-the-badge&color=ff4db1">
-</p>
-
 ---
 
 ### About Me
