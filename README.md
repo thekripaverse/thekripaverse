@@ -10,7 +10,7 @@ AI Engineering Student · Python Developer · Agentic Systems Builder
 
 ---
 
-## Profile
+## Engineering Focus
 
 Undergraduate engineering student at **Karpagam College of Engineering** with a strong focus on
 **Artificial Intelligence, Agentic AI, Computer Vision, and Deep Learning**.
@@ -50,6 +50,12 @@ Interested in solving real-world problems through **scalable, reliable, and expl
 </p>
 
 > Additional AI-agent and computer-vision–focused projects are currently under development.
+
+## Currently Building
+
+- AI agents with autonomous decision-making capabilities
+- Multi-agent systems for task orchestration and coordination
+- Applied computer vision pipelines integrated into end-to-end applications
 
 ---
 
