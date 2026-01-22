@@ -36,11 +36,11 @@
 
 ### Featured Projects
 <p align="center">
-  <a href="https://github.com/thekripaverse/ClinicalCopilot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thekripaverse&repo=ClinicalCopilot&theme=radical"/>
+  <a href="https://github.com/thekripaverse/Nemotron-Omni-Orchestrator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thekripaverse&repo=Nemotron-Omni-Orchestrator&theme=radical"/>
   </a>
-  <a href="https://github.com/thekripaverse/AlumniDiscoveryPlatform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thekripaverse&repo=AlumniDiscoveryPlatform&theme=radical" />
+  <a href="https://github.com/thekripaverse/ClinicalCopilot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thekripaverse&repo=ClinicalCopilot&theme=radical" />
   </a>
 </p>
 
@@ -64,14 +64,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=thekripaverse&theme=radical&column=8" />
 </p>
 
----
-
-### Live Contribution Snake Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/thekripaverse/thekripaverse/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
 
 ### Activity Timeline
 <p align="center">
