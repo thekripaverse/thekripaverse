@@ -26,15 +26,14 @@ Interested in solving real-world problems through **scalable, reliable, and expl
 
 ## Technical Expertise
 
-<div align="center">
-
 ## Highlights
 
 - Built terrain-aware semantic segmentation system (mIoU: 0.5402)
 - Designed modular deep learning pipelines with CI + testing
 - Developed multi-agent AI orchestration systems
 - Actively contributing to open-source ML ecosystem
-
+  
+<div align="center">
 
 | AI & ML | Programming | Web & Deployment | Developer Tools |
 |-------|-------------|------------------|----------------|
